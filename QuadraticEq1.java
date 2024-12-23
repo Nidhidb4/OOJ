@@ -28,6 +28,7 @@ else {
             double imag = Math.sqrt(-d) / (2 * a);
             System.out.printf("root1 = %.2f + %.2fi%n", real, imag); 
             System.out.printf("root2 = %.2f - %.2fi%n", real, imag); 
+           System.out.println("NIDHI D B");
         }
          
     }
