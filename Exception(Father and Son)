@@ -75,6 +75,7 @@ public class Main1 {
         } catch (WrongAge e) {
             // Print the exception name and message
             System.out.println("Exception: " + e.getClass().getSimpleName() + " - " + e.getMessage());
+            System.out.println("NIDHI D B");
         }
     }
 }
