@@ -68,6 +68,7 @@ public class Book_details {
      System.out.println("\nBook Details:");
       for (int i = 0; i < n; i++) {
             System.out.println(books[i].toString());
+           System.out.println("NIDHI D B");
         }
 
        
