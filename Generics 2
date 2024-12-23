@@ -28,5 +28,6 @@ class TwoGen<T, V> {
  System.out.println("value: " + v);
  String str = tgObj.getob2();
  System.out.println("value: " + str);
+System.out.println("NIDHI D B");
  }
  }
