@@ -111,5 +111,6 @@ public class Main {
         System.out.println("Total External Marks: " + totalExternal);
         System.out.println("Final Marks (Internal + External): " + (totalInternal + totalExternal));
         System.out.println();
+        System.out.println("NIDHI D B");
     }
 }
