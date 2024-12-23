@@ -71,6 +71,8 @@ class Student_details {
         for (int j = 0; j < 3; j++) {
             System.out.println("\nDetails of student " + (j + 1) + ":");
             s1[j].display();
+            System.out.println("NIDHI D B");
+            
         }
     }
 }
